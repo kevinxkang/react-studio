@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2a6a9ed1-c1d4-41bb-8918-2335542d1478" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.css" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/BakeryItem.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/BakeryItem.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,7 +39,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1668131082275</updated>
-      <workItem from="1668131083823" duration="4835000" />
+      <workItem from="1668131083823" duration="5218000" />
+      <workItem from="1668145812713" duration="362000" />
     </task>
     <servers />
   </component>
