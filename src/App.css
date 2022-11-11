@@ -1,9 +1,35 @@
 /* Add styling for your page here */
 
 .App {
+    display: flex;
+    flex-wrap: wrap;
+}
 
+.bakery-wrap {
+    margin-left: 10px;
+    flex: 1 1 300px;
+    width: 50%;
+}
+
+.bakery-items {
+    display: flex;
+
+    flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .BakeryItem {
-  
+    background-color:cornsilk;
+    width: 30%;
+    margin: 20px;
+    padding: 20px;
+}
+
+img {
+    width: 20%
+}
+
+.cart {
+
+
 }
